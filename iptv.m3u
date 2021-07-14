@@ -1189,7 +1189,7 @@ http://103.213.238.70:80/j-SonyTV/tracks-v1a1/mono.m3u8
 http://103.213.238.70:80/SonyMaxHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Inspire-BDIX", Sony Pix 
 http://103.213.238.70:80/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Inspire-BDIX (সবার চলবে না)", Sony SAB 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="Inspire-BDIX", Sony SAB 
 http://103.213.238.70:80/SonySAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Inspire-BDIX", Star Jalsha 
 http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
