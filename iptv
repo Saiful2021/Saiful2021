@@ -333,7 +333,7 @@ https://mn-nl.mncdn.com/haditv_live9/smil:haditv_live9.smil/chunklist_b1296000.m
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MbFLNX.png" group-title="Religious", Peace TV English
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Religious", Peace Tv - Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Religious", Peace Tv Bangla
 http://103.205.133.19/hls/peacetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KgHqXE5.png" group-title="Religious", Sunnah TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png" group-title="Quran)", Macca 
@@ -353,13 +353,10 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://8.anbdaouras.xyz/live/6262622200/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9yczQe.png" group-title="Sports", ESPN 2
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzWqr2y.png" group-title="Sports", ESPN ACCN
 http://164.68.124.111/acc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S5Wg70v.png" group-title="Sports", ESPN FS2
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IXmPNPY.png" group-title="Sports", ESPN SEC
 http://164.68.124.111/sec.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZUiTwj.png" group-title="Sports", ESPN U
