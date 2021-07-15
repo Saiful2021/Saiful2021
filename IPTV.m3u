@@ -189,71 +189,70 @@ http://tv.pmcon.net/hls/stream9.m3u8
 #EXTINF:63, tvg-id="EPG N/A" tvg-logo="https://www.adgully.com/img/400/2010-05-National-Geographic-Channel-NGC.jpg" tvg-name="National Geographic Bangla"  group-title="All Channel ",National Geographic Bangla
 http://tv.pmcon.net/hls/stream13.m3u8
 
-#EXTINF:65, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-name="Discovery Kids"  group-title="All Channel ",Discovery Kids
+#EXTINF:64, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" tvg-name="Discovery Kids"  group-title="All Channel ",Discovery Kids
 http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
 
-#EXTINF:64, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" tvg-name="Discovery Science"  group-title="All Channel ",Discovery Science
+#EXTINF:65, tvg-id="EPG N/A" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.jpg" tvg-name="Discovery Science"  group-title="All Channel ",Discovery Science
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 
-#EXTINF:65, tvg-id="EPG N/A" tvg-logo="https://w7.pngwing.com/pngs/19/158/png-transparent-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" tvg-name="Discovery Turbo"  group-title="All Channel ",Discovery Turbo
+#EXTINF:66, tvg-id="EPG N/A" tvg-logo="https://w7.pngwing.com/pngs/19/158/png-transparent-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" tvg-name="Discovery Turbo"  group-title="All Channel ",Discovery Turbo
 http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
 
-#EXTINF:66, tvg-id="EPG N/A" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" tvg-name="Animal Planet"  group-title="All Channel ",Animal Planet
+#EXTINF:67, tvg-id="EPG N/A" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" tvg-name="Animal Planet"  group-title="All Channel ",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 
-#EXTINF:67, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" tvg-name="NAT GEO WILD"  group-title="All Channel ",NAT GEO WILD
+#EXTINF:68, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" tvg-name="NAT GEO WILD"  group-title="All Channel ",NAT GEO WILD
 https://list.iptvcat.com/my_list/s/925dd6b6a236bc04e2f2b75f0c489c63.m3u8
 
-#EXTINF:68, tvg-id="EPG N/A" tvg-logo="https://w7.pngwing.com/pngs/689/805/png-transparent-national-geographic-society-nat-geo-wild-television-channel-others-television-text-rectangle.png" tvg-name="National Geographic Wild HD"  group-title="All Channel ",National Geographic Wild HD
+#EXTINF:69, tvg-id="EPG N/A" tvg-logo="https://w7.pngwing.com/pngs/689/805/png-transparent-national-geographic-society-nat-geo-wild-television-channel-others-television-text-rectangle.png" tvg-name="National Geographic Wild HD"  group-title="All Channel ",National Geographic Wild HD
 https://list.iptvcat.com/my_list/s/b2dbf8379b151d9a5378bc238538d4e4.m3u8
 
-
-#EXTINF:69, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="All Channel ",HBO
+#EXTINF:70, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="All Channel ",HBO
 http://tv.aliflailabd.com:8989/hbo/index.m3u8?token=d81087d7ed82312920bf618ff89405e1b21deefa-1a60290021e28f52bc3f77ab7de68db4-1626344518-1626333718&remote=103.102.27.198
 
-#EXTINF:70, tvg-id="EPG N/A" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/06/ec0f30e7-axn001.jpg" tvg-name="AXN"  group-title="All Channel ",AXN
+#EXTINF:71, tvg-id="EPG N/A" tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2020/06/ec0f30e7-axn001.jpg" tvg-name="AXN"  group-title="All Channel ",AXN
 http://tv.aliflailabd.com:8989/axn-hd/index.m3u8?token=b06b879fc0fb5d047c627b1d4b04ba70267d02a9-56a13fd7f2a3021a841a28cb8497dc3f-1626344608-1626333808&remote=103.102.27.198
 
-#EXTINF:71, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" tvg-name="Star Movies"  group-title="All Channel ",Star Movies
+#EXTINF:72, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" tvg-name="Star Movies"  group-title="All Channel ",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8?token=23fc0e1663e132c6aaa2623cbce6638847d092af-4f3a87e54ea11eaa0aff2103baa754b5-1626344690-1626333890&remote=103.102.27.198
 
-#EXTINF:72, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-name="Sony PIX"  group-title="All Channel ",Sony PIX
+#EXTINF:73, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-name="Sony PIX"  group-title="All Channel ",Sony PIX
 http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8?token=b261c37b4c3f3665d09294f1134060b7f257aa2a-11571e39761b9e3cac3988982081a0aa-1626345326-1626334526&remote=103.102.27.198
 
-#EXTINF:73, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel ",Sony MIX
+#EXTINF:74, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel ",Sony MIX
 http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
 
-#EXTINF:74, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-name="MNX"  group-title="All Channel ",MNX
+#EXTINF:75, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-name="MNX"  group-title="All Channel ",MNX
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8?token=8277c62bb2e24e5fe5c54ec177dc3e9dbd01e621-c141a9275a2d3b14a07f917e82373fa9-1626345558-1626334758&remote=103.102.27.198
 
-#EXTINF:75, tvg-id="EPG N/A" tvg-logo="https://www.logolynx.com/images/logolynx/b1/b151666806efe62afa37f523f8eb49e4.jpeg" tvg-name="HBO HD"  group-title="All Channel ",HBO HD
+#EXTINF:76, tvg-id="EPG N/A" tvg-logo="https://www.logolynx.com/images/logolynx/b1/b151666806efe62afa37f523f8eb49e4.jpeg" tvg-name="HBO HD"  group-title="All Channel ",HBO HD
 https://list.iptvcat.com/my_list/s/dbffed625665bdcf9a1bc546a881ceca.m3u8
 
-#EXTINF:76, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/1200px-BBC_World_Service_red.svg.png" tvg-name="BBC World"  group-title="All Channel ",BBC World
+#EXTINF:77, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BBC_World_Service_red.svg/1200px-BBC_World_Service_red.svg.png" tvg-name="BBC World"  group-title="All Channel ",BBC World
 http://tv.aliflailabd.com:8989/bbc-world/index.m3u8?token=a6791ecdf055ca2745a608438710875749cba1af-bd3fdc894ee7e6a3bfdcab5a47ff9912-1626345440-1626334640&remote=103.102.27.198
 
-#EXTINF:77, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" tvg-name="Aljazeera"  group-title="All Channel ",Aljazeera
+#EXTINF:78, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" tvg-name="Aljazeera"  group-title="All Channel ",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:78, tvg-id="EPG N/A" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/Arirang.png" tvg-name="Arirang"  group-title="All Channel ",Arirang
+#EXTINF:79, tvg-id="EPG N/A" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/Arirang.png" tvg-name="Arirang"  group-title="All Channel ",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:79, tvg-id="EPG N/A" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" tvg-name="CNN"  group-title="All Channel ",CNN
+#EXTINF:80, tvg-id="EPG N/A" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" tvg-name="CNN"  group-title="All Channel ",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
-#EXTINF:80, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/910/1/png-clipart-9xm-music-television-television-channel-betel-miscellaneous-television.png" tvg-name="9XM"  group-title="All Channel ",9XM
+#EXTINF:81, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/910/1/png-clipart-9xm-music-television-television-channel-betel-miscellaneous-television.png" tvg-name="9XM"  group-title="All Channel ",9XM
 http://tv.aliflailabd.com:8989/9xm/index.m3u8?token=7ab632aef5b9bdb3acee70ea67d01961cf4518f7-385582f8f364fd6ec281c45c1d625caa-1626346034-1626335234&remote=103.102.27.198
 
-#EXTINF:81, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/b4U.jpg" tvg-name="B4U"  group-title="All Channel ",B4U
+#EXTINF:82, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/b4U.jpg" tvg-name="B4U"  group-title="All Channel ",B4U
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 
-#EXTINF:82, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dhoom-music-bangla-logo-300x300.jpg" tvg-name="Dhoom"  group-title="All Channel ",Dhoom
+#EXTINF:83, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dhoom-music-bangla-logo-300x300.jpg" tvg-name="Dhoom"  group-title="All Channel ",Dhoom
 http://103.205.133.19/hls/dhoommusic.m3u8?token=soheliptv01826655778
 
-#EXTINF:83, tvg-id="EPG N/A" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/07/23/Zoom.jpg" tvg-name="Zoom"  group-title="All Channel ",Zoom
+#EXTINF:84, tvg-id="EPG N/A" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/07/23/Zoom.jpg" tvg-name="Zoom"  group-title="All Channel ",Zoom
 http://tv.pmcon.net/hls/stream8.m3u8
 
-#EXTINF:84, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/9X_logo.png/200px-9X_logo.png" tvg-name="9X Jalwa"  group-title="All Channel ",9X Jalwa
+#EXTINF:85, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/9X_logo.png/200px-9X_logo.png" tvg-name="9X Jalwa"  group-title="All Channel ",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
 
