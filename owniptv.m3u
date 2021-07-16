@@ -91,9 +91,9 @@ http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8?token=dcb96a593b768e3287b3d
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel",Sony MIX
 http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-name="Sony Six"  group-title="All Channel",Sony Six HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-name="Sony Six HD"  group-title="All Channel",Sony Six HD
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8?token=5d7cedcea997b00a9dc3b123b8ad113e7c85e665-370fab99a624bf413e9d94a9f19b2962-1626342140-1626331340&remote=103.102.27.198
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten1"  group-title="All Channel",Sony Ten 1 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten 1 HD"  group-title="All Channel",Sony Ten 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rY69nFs.jpg" tvg-name="Sony Ten 2 HD"  group-title="All Channel",Sony Ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
