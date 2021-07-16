@@ -105,8 +105,14 @@ http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8?token=6b82dde19f032b9e820f
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="All Channel",Jalsha Movies
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8?token=5ed5eb23b0d56b6cca309c4cf6f16fedf269e782-a8833f20942460c8683c8156a74bb679-1626341195-1626330395&remote=103.102.27.198
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/M6GyIvI.png" tvg-name="Zee Bangla Cinema"  group-title="All Channel",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" tvg-name="Sangeet Bangla"  group-title="All Channel",Sangeet Bangla
 http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8?token=2826f7cab399d412632af35d65c9fcb1250a5fed-855459fbc0f65f2c800d19f9dd69e6f7-1626346113-1626335313&remote=103.102.27.198
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dhoom-music-bangla-logo-300x300.jpg" tvg-name="Dhoom"  group-title="All Channel",Dhoom
+http://103.205.133.19/hls/dhoommusic.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image3.mouthshut.com/images/imagesp/925002088s.png" tvg-name="Star Plus"  group-title="All Channel",Star Plus
 http://tv.aliflailabd.com:8989/star-plus/index.m3u8?token=463ad44117168c967a9bc741fec8d4726aa69bcd-438edf0accc7821033905b438bd151f3-1626341507-1626330707&remote=103.102.27.198
@@ -129,16 +135,19 @@ http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8?token=dcb96a593b768e3287b3d
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY_400x400.jpg" tvg-name="Star Gold"  group-title="All Channel",Star Gold
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel",Sony MIX
+http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-name="Sony Six"  group-title="All Channel",Sony Six
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8?token=5d7cedcea997b00a9dc3b123b8ad113e7c85e665-370fab99a624bf413e9d94a9f19b2962-1626342140-1626331340&remote=103.102.27.198
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten 2"  group-title="All Channel",Sony Ten 2
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten 1"  group-title="All Channel",Sony Ten 1
 http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8?token=bb05f5f46ea8bb4e9175c83bb4fdf5734a78b62b-211d8416dfb3b6cbab2503e62363ed31-1626342231-1626331431&remote=103.102.27.198
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="All Channel", Sony Ten 2 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/rY69nFs.jpg" tvg-name="Sony Ten 2 HD"  group-title="All Channel",Sony Ten 2 HD
 http://tv.pmcon.net/hls/stream39.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="All Channel", Sony Ten 3 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/K1rahTG.png" tvg-name="Sony Ten 3 HD"  group-title="All Channel",Sony Ten 3 HD
 http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8?token=2635ad887b44405490e73fbdd118d92f67c90d96-a259257eadfc38d62431d11e69bbecdf-1626387008-1626376208&remote=103.102.27.198
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="All Channel",T Sports
@@ -213,9 +222,6 @@ http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8?token=23fc0e1663e132c6a
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-name="Sony PIX"  group-title="All Channel",Sony PIX
 http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8?token=b261c37b4c3f3665d09294f1134060b7f257aa2a-11571e39761b9e3cac3988982081a0aa-1626345326-1626334526&remote=103.102.27.198
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel",Sony MIX
-http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" tvg-name="MNX"  group-title="All Channel",MNX
 http://tv.aliflailabd.com:8989/mn-hd/index.m3u8?token=8277c62bb2e24e5fe5c54ec177dc3e9dbd01e621-c141a9275a2d3b14a07f917e82373fa9-1626345558-1626334758&remote=103.102.27.198
 
@@ -237,14 +243,14 @@ http://tv.aliflailabd.com:8989/9xm/index.m3u8?token=7ab632aef5b9bdb3acee70ea67d0
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/08/b4U.jpg" tvg-name="B4U"  group-title="All Channel",B4U
 https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dhoom-music-bangla-logo-300x300.jpg" tvg-name="Dhoom"  group-title="All Channel",Dhoom
-http://103.205.133.19/hls/dhoommusic.m3u8?token=soheliptv01826655778
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/07/23/Zoom.jpg" tvg-name="Zoom"  group-title="All Channel",Zoom
 http://tv.pmcon.net/hls/stream8.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/9X_logo.png/200px-9X_logo.png" tvg-name="9X Jalwa"  group-title="All Channel",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RmS55kU.png" tvg-name="Zingg"  group-title="All Channel",Zingg
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSoi6ue.png" tvg-name="Radio Foorti (88.0)"  group-title="FM Radio",Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
@@ -288,7 +294,7 @@ http://45.64.135.88:8000/stream1
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/1200px-Sputnik_logo.svg.png" tvg-name="Radio Sputnik"  group-title="FM Radio",Radio Sputnik
 https://riavoice.gcdn.co/voiceusa
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" tvg-name="Radio Fox News "  group-title="FM Radio",Radio Fox News 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" tvg-name="Radio Fox News"  group-title="FM Radio",Radio Fox News
 https://streaming-ent.shoutcast.com/foxnews
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media.info/i/lv/capital-london/1493676754/193.png" tvg-name="Capital FM London"  group-title="FM Radio",Capital FM London
