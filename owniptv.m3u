@@ -138,7 +138,7 @@ http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-mix-logo-300x300.jpg" tvg-name="Sony MIX"  group-title="All Channel",Sony MIX
 http://tv.aliflailabd.com:8989/setmax/index.m3u8?token=74f76583703c6cc3f5124da80be840aa4e4536ad-6410890b9f0b2755d9e7f094d15aeda2-1626345637-1626334837&remote=103.102.27.198
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-name="Sony Six"  group-title="All Channel",Sony Six
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" tvg-name="Sony Six"  group-title="All Channel",Sony Six HD
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8?token=5d7cedcea997b00a9dc3b123b8ad113e7c85e665-370fab99a624bf413e9d94a9f19b2962-1626342140-1626331340&remote=103.102.27.198
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten 1"  group-title="All Channel",Sony Ten 1
@@ -168,7 +168,7 @@ http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8?token=b6504cbaadfe
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.winudf.com/v2/image1/dGVuLnNwb3J0czIwMTlmcmVlX3NjcmVlbl80XzE1NTMxNjc0MjJfMDMy/screen-4.jpg?fakeurl=1&type=.jpg" tvg-name="Ten Cricket"  group-title="All Channel",Ten Cricket
 http://tv.pmcon.net/hls/stream34.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten1"  group-title="All Channel",Sony Ten1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten1"  group-title="All Channel",Sony Ten 1 HD
 http://tv.pmcon.net/hls/stream40.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="All Channel",PTV Sports
@@ -191,9 +191,6 @@ http://tv.aliflailabd.com:8989/discovery/index.m3u8?token=5f31dcda834db4d177a6fe
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" tvg-name="National Geographic"  group-title="All Channel",National Geographic
 http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8?token=dc2e22c2694c15d9ea0380bbc960514bd385683f-eb00b9531c84168e018524df080b42be-1626344053-1626333253&remote=103.102.27.198
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/58099ebdf297cb205707d5b3/1565808762001/c81be057529971f24829a062e56f07c8.jpg" tvg-name="TLC World"  group-title="All Channel",TLC World
-http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8?token=b4c00228b7ca8b557b145b6d01cac4af93520246-ac12944b1f15a3a085d7f4560180b22a-1626344156-1626333356&remote=103.102.27.198
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/Rm61MgMX0UY/hqdefault.jpg" tvg-name="Discovery Bangla"  group-title="All Channel",Discovery Bangla
 http://tv.pmcon.net/hls/stream9.m3u8
