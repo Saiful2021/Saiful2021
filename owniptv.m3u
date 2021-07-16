@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://api.time.com/wp-content/uploads/2015/09/hajj-pilgrimage-mecca-saudi-arabia-12.jpg" tvg-name="Mecca"  group-title="All Channel",Mecca
 http://tv.pmcon.net/hls/stream33.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Green_dome%2C_Masjid_e_Nabawi%2C_Medina%2C_KSA.jpg/220px-Green_dome%2C_Masjid_e_Nabawi%2C_Medina%2C_KSA.jpg" tvg-name="Medina"  group-title="All Channel",Medina
-https://list.iptvcat.com/my_list/s/b7229f73dbbc026f23522ab0baade10b.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg" tvg-name="Makkah TV"  group-title="All Channel",Makkah TV
-https://list.iptvcat.com/my_list/s/2b5d546c0cad2ae2d4fa75bc6521662e.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" tvg-name="GTV"  group-title="All Channel",GTV
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=3e53eb5bab524656b7facf4e7e4cf4ff2112b00e-9367686a2ebd13b9f4df07e0a039dd43-1626338336-1626327536&remote=103.102.27.198
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/YQP7FBUcon-G5tN4gern0sAs9cxredbeDG7UTnSHgau39W6v9v7MToQiRE4mVM9JYzg" tvg-name="Jamuna TV"  group-title="All Channel",Jamuna TV
