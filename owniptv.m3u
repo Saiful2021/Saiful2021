@@ -203,9 +203,9 @@ https://icecast.skyrock.net/s/natio_aac_96k
 https://streaming.englishwaves.fr/englishwavesclassique.mp3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5PsRkPd.png" tvg-name="ATN Bangla"  group-title="IPTV",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/h5FhOWT.png" tvg-name="Ananda TV"  group-title="IPTV",Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/h5FhOWT.png" tvg-name="Ananda TV (2)"  group-title="IPTV",Ananda TV (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV (2)
 http://103.43.148.202:1931/iptv/anandatv.stream/chunks.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/fxq0pV2.png" tvg-name="Asian TV"  group-title="IPTV",Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
