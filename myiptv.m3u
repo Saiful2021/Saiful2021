@@ -109,8 +109,8 @@ http://tv.pmcon.net/hls/stream15.m3u8
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/05/14/78/05147840f91ce08f14f365b708613325.jpg" tvg-name="Ten Sports"  group-title="IPTV",Ten Sports
 http://tv.pmcon.net/hls/stream34.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="IPTV",T Sports
-http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CJUmEHD.png" tvg-name="T Sports HD"  group-title="IPTV",T Sports HD
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2018/11/5bdb1d43a67e3-384x384.png" tvg-name="Nick"  group-title="IPTV",Nick
 http://tv.pmcon.net/hls/stream23.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" tvg-name="Sony Yay"  group-title="IPTV",Sony Yay
