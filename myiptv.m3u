@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i2.cdn.turner.com/cnnnext/dam/assets/200729134736-hajj-attendence-2020.jpg" tvg-name="Makkah TV"  group-title="IPTV",Makkah TV
+http://tv.pmcon.net/hls/stream33.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5PsRkPd.png" tvg-name="ATN Bangla"  group-title="IPTV",ATN Bangla
+http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/h5FhOWT.png" tvg-name="Ananda TV"  group-title="IPTV",Ananda TV
+http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/K43LsMQ.png" tvg-name="Bangla TV"  group-title="IPTV",Bangla TV
+http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/HX8SSDA.png" tvg-name="Banglavision HD"  group-title="IPTV",Banglavision HD
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/kDmkexe.png" tvg-name="Bijoy TV"  group-title="IPTV",Bijoy TV
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/pTJSGtj.png" tvg-name="Boishakhi TV"  group-title="IPTV",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MmhxR5E.png" tvg-name="Channel 24"  group-title="IPTV",Channel 24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/fj8nxOw.png" tvg-name="Channel 9 HD"  group-title="IPTV",Channel 9 HD
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/p0I5dr0.png" tvg-name="Channel i HD"  group-title="IPTV",Channel i HD
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/djAX8Rc.png" tvg-name="DBC News"  group-title="IPTV",DBC News
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/kFqOMtx.png" tvg-name="Ekusey TV"  group-title="IPTV",Ekusey TV
+http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/ds3aThu.jpg" tvg-name="Jamuna TV"  group-title="IPTV",Jamuna TV
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" tvg-name="Maasranga TV HD"  group-title="IPTV",Maasranga TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/4imblNY.jpg" tvg-name="Mohona TV HD"  group-title="IPTV",Mohona TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/bahWhBG.png" tvg-name="My TV BD"  group-title="IPTV",My TV BD
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/2cpHJKq.png" tvg-name="Nagorik TV"  group-title="IPTV",Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FxsW4XI.png" tvg-name="News 24 HD"  group-title="IPTV",News 24 HD
+http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/yi5p51T.png" tvg-name="RTV HD"  group-title="IPTV",RTV HD
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/fraEjzm.png" tvg-name="SA TV"  group-title="IPTV",SA TV
+http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.9e4efd5.png" tvg-name="Somoy TV"  group-title="IPTV",Somoy TV
+http://tv.pmcon.net/hls/stream21.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" tvg-name="Jalsha Movies"  group-title="IPTV",Jalsha Movies
+http://tv.pmcon.net/hls/stream27.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" tvg-name="Colors Bangla"  group-title="IPTV",Colors Bangla
+http://tv.pmcon.net/hls/stream28.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" tvg-name="Zee Bangla"  group-title="IPTV",Zee Bangla
+http://tv.pmcon.net/hls/stream30.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/M6GyIvI.png" tvg-name="Zee Bangla Cinema"  group-title="IPTV",Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" tvg-name="Star Jalsha"  group-title="IPTV",Star Jalsha
+http://tv.pmcon.net/hls/stream31.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.adgully.com/img/400x300/65869_final-txp-logo.jpg" tvg-name="Travelxp"  group-title="IPTV",Travelxp
+http://tv.pmcon.net/hls/stream37.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" tvg-name="Sangeet Bangla"  group-title="IPTV",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" tvg-name="StarPlus"  group-title="IPTV",StarPlus
+http://tv.pmcon.net/hls/stream38.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1223313405219495936/xiXekYtY_400x400.jpg" tvg-name="Star Gold"  group-title="IPTV",Star Gold
+http://tv.pmcon.net/hls/stream19.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_auto,q_auto/resources/0-9-zeecinemaintl/list/1170x658withlogo_777607725.jpg" tvg-name="Zee Cinema"  group-title="IPTV",Zee Cinema
+http://tv.pmcon.net/hls/stream25.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" tvg-name="Colors Cineplex"  group-title="IPTV",Colors Cineplex
+http://tv.pmcon.net/hls/stream29.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg" tvg-name="UTV Action"  group-title="IPTV",UTV Action
+http://tv.pmcon.net/hls/stream7.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_696/PORTRAIT/288dmSbW.png" tvg-name="&pictures"  group-title="IPTV",&pictures
+http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" tvg-name="9XM"  group-title="IPTV",9XM
+http://tv.pmcon.net/hls/stream14.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RmS55kU.png" tvg-name="Zingg"  group-title="IPTV",Zingg
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wRc0YAb.png" tvg-name="Zoom"  group-title="IPTV",Zoom
+http://tv.pmcon.net/hls/stream8.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/stZqDcA.png" tvg-name="B4U Music"  group-title="IPTV",B4U Music
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-name="Sony Pix"  group-title="IPTV",Sony Pix
+http://tv.pmcon.net/hls/stream1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" tvg-name="AXN"  group-title="IPTV",AXN
+http://tv.pmcon.net/hls/stream2.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" tvg-name="Star Movies"  group-title="IPTV",Star Movies
+http://tv.pmcon.net/hls/stream3.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" tvg-name="Animal Planet"  group-title="IPTV",Animal Planet
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/08/d1/32/08d1325ac6c86df5d6092892c426472f.png" tvg-name="Discovery Channel"  group-title="IPTV",Discovery Channel
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" tvg-name="National Geographic"  group-title="IPTV",National Geographic
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/BBC_Earth.jpg/220px-BBC_Earth.jpg" tvg-name="BBC Earth"  group-title="IPTV",BBC Earth
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/981819775817957377/VVKcF_Y6.jpg" tvg-name="Al Jazeera English"  group-title="IPTV",Al Jazeera English
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ichef.bbci.co.uk/news/1024/branded_news/16B26/production/_96566929_bbc_wn_rgb.png" tvg-name="BBC World News"  group-title="IPTV",BBC World News
+http://tv.pmcon.net/hls/stream36.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" tvg-name="Sony Six"  group-title="IPTV",Sony Six
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" tvg-name="Sony Ten 1"  group-title="IPTV",Sony Ten 1
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" tvg-name="Sony Ten 2"  group-title="IPTV",Sony Ten 2
+http://tv.pmcon.net/hls/stream39.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" tvg-name="PTV Sports"  group-title="IPTV",PTV Sports
+http://tv.pmcon.net/hls/stream11.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" tvg-name="Star Sports Select"  group-title="IPTV",Star Sports Select
+http://tv.pmcon.net/hls/stream12.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/be/32/a6/be32a66c64716626d01188fa1dbc2ef2.jpg" tvg-name="Star Sports 1"  group-title="IPTV",Star Sports 1
+http://tv.pmcon.net/hls/stream15.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-hd-2-logo-300x300.jpg" tvg-name="Star Sports 2"  group-title="IPTV",Star Sports 2
+http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/05/14/78/05147840f91ce08f14f365b708613325.jpg" tvg-name="Ten Sports"  group-title="IPTV",Ten Sports
+http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T Sports"  group-title="IPTV",T Sports
+http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2018/11/5bdb1d43a67e3-384x384.png" tvg-name="Nick"  group-title="IPTV",Nick
+http://tv.pmcon.net/hls/stream23.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg" tvg-name="Sony Yay"  group-title="IPTV",Sony Yay
+http://tv.pmcon.net/hls/stream32.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSoi6ue.png" tvg-name="Radio Foorti (88.0)"  group-title="FM Radio",Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ni355Vy.png" tvg-name="Radio Amar (88.4)"  group-title="FM Radio",Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/srXJwSN.png" tvg-name="Bangladesh Betar (88.8)"  group-title="FM Radio",Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CFnUmxM.png" tvg-name="ABC Radio (89.2)"  group-title="FM Radio",ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0HrUDOH.png" tvg-name="Radio Today (89.6)"  group-title="FM Radio",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dbNaIjP.png" tvg-name="Radio Dhoni (91.2)"  group-title="FM Radio",Radio Dhoni (91.2)
+http://182.160.110.180:1020/;stream.mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UDrB3Z9.png" tvg-name="Radio Shadhin (92.4)"  group-title="FM Radio",Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YIIvblK.png" tvg-name="Big FM (92.7)"  group-title="FM Radio",Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/sgjOpqz.png" tvg-name="Jago FM (94.4)"  group-title="FM Radio",Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/SzLPkH4.png" tvg-name="Spice FM (96.4)"  group-title="FM Radio",Spice FM (96.4)
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/oCqZq70.png" tvg-name="Radio Mirchi (98.3)"  group-title="FM Radio",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FtO5Esl.png" tvg-name="Radio Ekattor (98.4)"  group-title="FM Radio",Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/meR71iP.png" tvg-name="Colours FM (101.6)"  group-title="FM Radio",Colours FM (101.6)
+http://45.64.135.88:8000/stream1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/1200px-Sputnik_logo.svg.png" tvg-name="Radio Sputnik"  group-title="FM Radio",Radio Sputnik
+https://riavoice.gcdn.co/voiceusa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" tvg-name="Radio Fox News"  group-title="FM Radio",Radio Fox News
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media.info/i/lv/capital-london/1493676754/193.png" tvg-name="Capital FM London"  group-title="FM Radio",Capital FM London
+https://media-ssl.musicradio.com/Capital?isLoggedIn=false&dax_version=release_2350&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1626365977569_0.459766359680285&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1626365977&aw_0_req.userConsentV2=CPJV71CPJV71CAGABCENBiCgAAAAAENAAAIYAAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_RadioFr.svg/1200px-Logo_RadioFr.svg.png" tvg-name="Radio FR"  group-title="FM Radio",Radio FR
+https://icecast.skyrock.net/s/natio_aac_96k
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://images.radio.orange.com/radios/large_englishwavesfr.png" tvg-name="Radio EnglishWaves"  group-title="FM Radio",Radio EnglishWaves
+https://streaming.englishwaves.fr/englishwavesclassique.mp3
