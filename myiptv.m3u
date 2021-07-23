@@ -3,7 +3,7 @@
 http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/5PsRkPd.png" tvg-name="ATN Bangla"  group-title="IPTV",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="GTV "  group-title="All Channel",GTV 
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="GTV "  group-title="IPTV",GTV 
 http://103.157.237.18:8000/play/122
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/h5FhOWT.png" tvg-name="Ananda TV"  group-title="IPTV",Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
@@ -117,7 +117,7 @@ http://tv.pmcon.net/hls/stream12.m3u8
 http://tv.pmcon.net/hls/stream34.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CJUmEHD.png" tvg-name="T Sports HD"  group-title="IPTV",T Sports HD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="T Sports BD"  group-title="All Channel",T Sports BD
+#EXTINF:-1, tvg-id="" tvg-logo="Logo N/A" tvg-name="T Sports BD"  group-title="IPTV",T Sports BD
 http://103.157.237.18:8000/play/630
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dQrdh2F.png" tvg-name="Al Jazeera"  group-title="IPTV",Al Jazeera
 http://tv.pmcon.net/hls/stream35.m3u8
