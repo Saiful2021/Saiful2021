@@ -142,4 +142,4 @@ https://icecast.skyrock.net/s/natio_aac_96k
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://images.radio.orange.com/radios/large_englishwavesfr.png" tvg-name="Radio EnglishWaves"  group-title="FM Radio",Radio EnglishWaves
 https://streaming.englishwaves.fr/englishwavesclassique.mp3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Asian_Network.svg/1200px-BBC_Asian_Network.svg.png="Radio BBC Asian Network"  group-title="FM Radio",BBC Asian Network
-https://emp.bbci.co.uk/emp/media/blank.mp3
+https://www.bbc.co.uk/sounds/play/live:bbc_asian_network
