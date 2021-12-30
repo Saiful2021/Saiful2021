@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" tvg-name="News 24"  group-title="All Channel",News 24
-http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News"  group-title="All Channel",DBC News
-http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" tvg-name="Independent"  group-title="All Channel",Independent
-http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg" tvg-name="Jamuna TV"  group-title="All Channel",Jamuna TV
-http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" tvg-name="Somoy TV"  group-title="All Channel",Somoy TV
-http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" tvg-name="Channel 24"  group-title="All Channel",Channel 24
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" tvg-name="News 24"  group-title="All Channel",JamunaTV
+https://www.youtube.com/watch?v=GAGhH4cK7gY&ab_channel=JamunaTV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News"  group-title="All Channel",SOMOYTV
+https://www.youtube.com/watch?v=gSPeJUa_DX8&ab_channel=SOMOYTV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" tvg-name="NTV"  group-title="All Channel",NTV
+https://www.youtube.com/watch?v=zEeoYfcrmX0&ab_channel=NTVLive
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg" tvg-name="NEWS24"  group-title="All Channel",NEWS24
+https://www.youtube.com/watch?v=ug1l9TR-VwM&ab_channel=NEWS24
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" tvg-name="Somoy TV"  group-title="All Channel",BanglaVision
+https://www.youtube.com/watch?v=EkBCvdQkpQs&ab_channel=BanglaVisionLIVE
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" tvg-name="Channel 24"  group-title="All Channel",AsianTV
+https://www.youtube.com/watch?v=9TReyLlbS6E&ab_channel=AsianTVMusic
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" tvg-name="Channel 9"  group-title="All Channel",Channel 9
 http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" tvg-name="Ekattor TV"  group-title="All Channel",Ekattor TV
-http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png" tvg-name="SA TV"  group-title="All Channel",SA TV
-http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" tvg-name="Ekattor TV"  group-title="All Channel",News18Bangla
+https://www.youtube.com/watch?v=TeJ214D_5_4&ab_channel=News18Bangla
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png" tvg-name="SA TV"  group-title="All Channel",AlJazeeraEnglish
+https://www.youtube.com/watch?v=-upyPouRrB8&ab_channel=AlJazeeraEnglish
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" tvg-name="Channel i"  group-title="All Channel",Channel i
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" tvg-name="ATN News"  group-title="All Channel",ATN News
