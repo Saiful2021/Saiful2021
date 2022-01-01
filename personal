@@ -275,9 +275,9 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="Dubai Sports 1"  group-title="Sports",Dubai Sports 1
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" tvg-name="FOX Sports News HD (akamai)"  group-title="Sports",FOX Sports News HD (akamai)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media.foxsports.com.au/digital/images/livestreams/fsnlivestream/FSN_Live_Stream_Start.jpg" tvg-name="FOX Sports News HD"  group-title="Sports",FOX Sports News HD (akamai)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" tvg-name="Red Bull TV Sports (akamai)"  group-title="Sports",Red Bull TV Sports (akamai)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.red24artists.com/wp-content/uploads/2016/10/Becky-Ives-Red-Bull-TV-690x450.jpg" tvg-name="Red Bull TV Sports"  group-title="Sports",Red Bull TV Sports
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" tvg-name="Cartoon Network RU"  group-title="Kids",Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
