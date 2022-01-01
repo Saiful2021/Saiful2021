@@ -410,8 +410,6 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://127.0.0.1/" tvg-name="India News"  group-title="News",India News
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.dropbox.com/s/zs6rjx0wjj0lki1/92.7.jpg?raw=1" tvg-name="Big FM (92.7)"  group-title="Radio",Big FM (92.7)
-http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSoi6ue.png" tvg-name="Radio Foorti (88.0)"  group-title="FM Radio",Radio Foorti (88.0)
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ni355Vy.png" tvg-name="Radio Amar (88.4)"  group-title="FM Radio",Radio Amar (88.4)
