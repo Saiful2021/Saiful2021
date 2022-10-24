@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:1, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGTV_(Bangladeshi_TV_channel)&psig=AOvVaw1VUPpOF03oHoDOKzy74mmj&ust=1666703703605000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOjd1qP5-PoCFQAAAAAdAAAAABAE" tvg-name="GTV"  group-title="Sports",GTV
-http://103.102.27.173/live/tvfeed1008/index.m3u8
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:2, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tsports.com%2F&psig=AOvVaw1T5owMk0KEVWMWsg-d_C0P&ust=1666703804001000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLi-qdP5-PoCFQAAAAAdAAAAABAE" tvg-name="T Sports"  group-title="Sports",T Sports
-http://103.102.27.173/live/tvfeed1008/index.m3u8
+http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:3, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FPTVSPORTSOFFICIALpk&psig=AOvVaw2sjNsffAxwVcl1viZzCuIA&ust=1666703913288000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIivvof6-PoCFQAAAAAdAAAAABAX" tvg-name="PTV Sports"  group-title="Sports",PTV Sports
-http://103.102.27.173/live/tvfeed1008/index.m3u8
+http://103.102.27.173/live/tvfeed1004/index.m3u8
 #EXTINF:4, tvg-id="New EPG" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCXuHIkEezOy_b1pnkN0-TIg&psig=AOvVaw1VUPpOF03oHoDOKzy74mmj&ust=1666703703605000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCNjts736-PoCFQAAAAAdAAAAABAH" tvg-name="GTV"  group-title="Sports",GTV
-http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1812635
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1818119
