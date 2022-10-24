@@ -1,1 +1,13 @@
-
+#EXTM3U
+#EXTINF:1, tvg-id="New EPG" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" tvg-name="GTV HD"  group-title="TV",GTV HD
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:2, tvg-id="New EPG" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" tvg-name="T Sports"  group-title="TV",T Sports
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:3, tvg-id="New EPG" tvg-logo="https://i.imgur.com/c53SXnN.png" tvg-name="PTV Sports"  group-title="TV",PTV Sports
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:4, tvg-id="New EPG" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" tvg-name="GTV"  group-title="TV",GTV
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1818119
+#EXTINF:5, tvg-id="New EPG" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" tvg-name="Ekattor TV"  group-title="TV",Ekattor TV
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=6528eccf8de764276412d57d596f550d138960f1-44229bc0daf8e9ff099aa3708d3b03a6-1666632072-1666621272
+#EXTINF:6, tvg-id="New EPG" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" tvg-name="Shomoy TV"  group-title="TV",Shomoy TV
+http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=f0fd39229913fa49962382c2d601452191fdeb03-ccc7ff1615811ed85500619d54feebc5-1666632237-1666621437
