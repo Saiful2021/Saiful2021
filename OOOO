@@ -34,7 +34,7 @@ http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8?token=674eb83b601f8f8
 #EXTINF:17, tvg-id="New EPG" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" tvg-name="Love Nature"  group-title="TV",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:18, tvg-id="New EPG" tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-name="Al Jazeera HD"  group-title="TV",Al Jazeera HD
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:19, tvg-id="New EPG" tvg-logo="https://i.imgur.com/86jLO7q.png" tvg-name="Animal Planet"  group-title="TV",Animal Planet
 http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=c47b32cf778062b17e9bed1b19e31cf773454bc9-ad3a584fcb06e833041c4b512ef5ce9b-1666636007-1666625207
 #EXTINF:20, tvg-id="New EPG" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" tvg-name="Discovery HD"  group-title="TV",Discovery HD
