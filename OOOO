@@ -1,1 +1,101 @@
-
+#EXTM3U
+#EXTINF:1, tvg-id="New EPG" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" tvg-name="GTV HD"  group-title="TV",GTV HD
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:2, tvg-id="New EPG" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" tvg-name="T Sports"  group-title="TV",T Sports
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:3, tvg-id="New EPG" tvg-logo="https://i.imgur.com/c53SXnN.png" tvg-name="PTV Sports"  group-title="TV",PTV Sports
+http://103.102.27.173/live/tvfeed1004/index.m3u8
+#EXTINF:4, tvg-id="New EPG" tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" tvg-name="GTV"  group-title="TV",GTV
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8?nimblesessionid=1818119
+#EXTINF:5, tvg-id="New EPG" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" tvg-name="Ekattor TV"  group-title="TV",Ekattor TV
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=6528eccf8de764276412d57d596f550d138960f1-44229bc0daf8e9ff099aa3708d3b03a6-1666632072-1666621272
+#EXTINF:6, tvg-id="New EPG" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" tvg-name="Shomoy TV"  group-title="TV",Shomoy TV
+http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=f0fd39229913fa49962382c2d601452191fdeb03-ccc7ff1615811ed85500619d54feebc5-1666632237-1666621437
+#EXTINF:7, tvg-id="New EPG" tvg-logo="https://i.imgur.com/e0tD66l.png" tvg-name="Sony Six HD"  group-title="TV",Sony Six HD
+http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8?token=3fd374d25bdf0e73a1e61077460937921cd1926e-8e10f6b1ef099df5cced40faebd65594-1666633151-1666622351
+#EXTINF:8, tvg-id="New EPG" tvg-logo="https://i.imgur.com/p0I5dr0.png" tvg-name="New Channel"  group-title="TV",Channel I
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8?token=f0092036691cbdc3aefa092c22bb22b77c58cad5-756b855054727dc27438dc171ffa4e88-1666633403-1666622603
+#EXTINF:9, tvg-id="New EPG" tvg-logo="https://i.imgur.com/yi5p51T.png" tvg-name="RTV HD"  group-title="TV",RTV HD
+http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8?token=9de16f10e2dc735c5e3694cf0ddc777ba19ad43b-35b0f77aaed4fdf65657c0a3d070209c-1666633786-1666622986
+#EXTINF:10, tvg-id="New EPG" tvg-logo="https://i.imgur.com/9d1xXjN.png" tvg-name="Star Jalsha HD"  group-title="TV",Star Jalsha HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b1892687f567369c36cad59e00b79ac6cb6feda3-88386ffb5aa49b2cf92924c4478bf504-1666633928-1666623128
+#EXTINF:11, tvg-id="New EPG" tvg-logo="https://i.imgur.com/e5Ldh7e.png" tvg-name="Zee Bangla HD"  group-title="TV",Zee Bangla HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=2e5f6b910481618ef055773c1568295865ddfb44-07df072ddc623e93df99acf00ff63820-1666634072-1666623272
+#EXTINF:12, tvg-id="New EPG" tvg-logo="https://i.imgur.com/2PQfcOh.png" tvg-name="Jalsha Movies HD"  group-title="TV",Jalsha Movies HD
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=1b01a018de45d1d1e282adc7fc25fe55e5643e8b-34417b23940fe34aca01a2c4466cf838-1666634179-1666623379
+#EXTINF:13, tvg-id="New EPG" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" tvg-name="Zee Bangla Cinema"  group-title="TV",Zee Bangla Cinema
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=4b0b7f41e08f2ed71092ef836895f811322736b8-8a64e28e9fee1a88eb1f0b0f896c488d-1666634295-1666623495
+#EXTINF:14, tvg-id="New EPG" tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" tvg-name="Sony Max HD"  group-title="TV",Sony Max HD
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=8961fcf9a46e4ef2e59eb0d3328f4f3f421bb640-018250691322a5085b503e31ec9b1170-1666634780-1666623980
+#EXTINF:15, tvg-id="New EPG" tvg-logo="https://i.imgur.com/vGq343l.png" tvg-name="Star GolD HD"  group-title="TV",Star GolD HD
+http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=51e7ee228579eddcf98e59ff7167c165097a7bb4-51d5b36e4af706e93a769c5e18105db7-1666634901-1666624101
+#EXTINF:16, tvg-id="New EPG" tvg-logo="https://i.imgur.com/NIfMrhI.png" tvg-name="Sony PIX"  group-title="TV",Sony PIX
+http://stream.amrbd.com:8082/SonyPix/tracks-v1a1/mono.m3u8?token=674eb83b601f8f89f8c3f5af27d006579cfcc888-98c6ee074e369da1dc33ca3e1a776aa8-1666635027-1666624227
+#EXTINF:17, tvg-id="New EPG" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" tvg-name="Love Nature"  group-title="TV",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:18, tvg-id="New EPG" tvg-logo="https://i.imgur.com/fRivJD3.jpg" tvg-name="Al Jazeera HD"  group-title="TV",Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:19, tvg-id="New EPG" tvg-logo="https://i.imgur.com/86jLO7q.png" tvg-name="Animal Planet"  group-title="TV",Animal Planet
+http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8?token=c47b32cf778062b17e9bed1b19e31cf773454bc9-ad3a584fcb06e833041c4b512ef5ce9b-1666636007-1666625207
+#EXTINF:20, tvg-id="New EPG" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" tvg-name="Discovery HD"  group-title="TV",Discovery HD
+http://stream.amrbd.com:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=556488b31866adf12f89eeb3e6f4ae26f2d2bad6-7125ec3b25f897a87d94790232695a34-1666636139-1666625339
+#EXTINF:21, tvg-id="New EPG" tvg-logo="https://i.imgur.com/4duWidg.png" tvg-name="National Geographic HD"  group-title="TV",National Geographic HD
+http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=c990dbb23748f6eef1528f0d07ebc1aec72a5533-abb7628ed2a56816de3c2cfc79f9615b-1666636256-1666625456
+#EXTINF:22, tvg-id="New EPG" tvg-logo="https://i.imgur.com/XA5u4gk.png" tvg-name="DBC News"  group-title="TV",DBC News
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=62052d75c4901599a48fd3418c65546c1cce54f0-4449d164a272d73d41afe2db77baacac-1666638554-1666627754
+#EXTINF:23, tvg-id="New EPG" tvg-logo="https://i.imgur.com/MmhxR5E.png" tvg-name="NEWS 24"  group-title="TV",NEWS 24
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8?token=412ee5e797b482b3ce1d0d299553db5baea5cbcc-45062f075360ea05b5dbf97784ff5165-1666638697-1666627897
+#EXTINF:24, tvg-id="New EPG" tvg-logo="https://i.imgur.com/MmhxR5E.png" tvg-name="Channel 24"  group-title="TV",Channel 24
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=26d260ae3b1d739f4f351a46a69a219130a10793-d8ceb8288944cbab692ddcdcb00ab2aa-1666639187-1666628387
+#EXTINF:25, tvg-id="New EPG" tvg-logo="https://i.imgur.com/5PsRkPd.png" tvg-name="ATN Bangla"  group-title="TV",ATN Bangla
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=7e83705e4f90ca5642457ff318eea83b17218179-69fbee0c6a8646259d73d3361914302b-1666639299-1666628499
+#EXTINF:26, tvg-id="New EPG" tvg-logo="https://i.imgur.com/pTJSGtj.png" tvg-name="Boishakhi TV"  group-title="TV",Boishakhi TV
+http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=825b76156beb9e1c455671c988b1c2337cf8ae49-faa540b67e174f3ecd53bbe9232e9a36-1666639426-1666628626
+#EXTINF:27, tvg-id="New EPG" tvg-logo="https://i.imgur.com/HX8SSDA.png" tvg-name="Banglavision HD"  group-title="TV",Banglavision HD
+http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=dc6055243e71ea2eb3cbc210d536ff234d4efc4c-4656399f980f3a208dbb4e8a4708915c-1666639531-1666628731
+#EXTINF:28, tvg-id="New EPG" tvg-logo="https://i.imgur.com/4imblNY.jpg" tvg-name="MY TV Bangla"  group-title="TV",MY TV Bangla
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8?token=e1b355223703649a88070b5c738e6df189440d84-2bd8ccc79848f0907a0515ad111c1e44-1666639643-1666628843
+#EXTINF:29, tvg-id="New EPG" tvg-logo="https://i.imgur.com/LqQp9LH.jpg" tvg-name="Nagorik TV"  group-title="TV",Nagorik TV
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=ee4dffafde9c8899e1d082e87bf6203beaed63d5-77a78faa70cf242abc9ce4defd726b8b-1666639766-1666628966
+#EXTINF:30, tvg-id="New EPG" tvg-logo="https://i.imgur.com/h5FhOWT.png" tvg-name="Anando Tv"  group-title="TV",Anando Tv
+http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8?token=7b3d856f8cd71de61a8a94600d01245217dd5af8-fd0e3878a26d6c0b39d5f314a8c647ea-1666640212-1666629412
+#EXTINF:31, tvg-id="New EPG" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1.png" tvg-name="BBC News"  group-title="TV",BBC News
+http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8?token=cc027580dd6ec9c6f5e6f9ff65dcc37c43e67e3b-5cfcb69063a4c7f3418f6a440f862d12-1666640340-166662954
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSoi6ue.png" tvg-name="Radio Foorti (88.0)"  group-title="FM Radio",Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/Ni355Vy.png" tvg-name="Radio Amar (88.4)"  group-title="FM Radio",Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/srXJwSN.png" tvg-name="Bangladesh Betar (88.8)"  group-title="FM Radio",Bangladesh Betar (88.8)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/CFnUmxM.png" tvg-name="ABC Radio (89.2)"  group-title="FM Radio",ABC Radio (89.2)
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/0HrUDOH.png" tvg-name="Radio Today (89.6)"  group-title="FM Radio",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/dbNaIjP.png" tvg-name="Radio Dhoni (91.2)"  group-title="FM Radio",Radio Dhoni (91.2)
+http://182.160.110.180:1020/;stream.mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UDrB3Z9.png" tvg-name="Radio Shadhin (92.4)"  group-title="FM Radio",Radio Shadhin (92.4)
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/YIIvblK.png" tvg-name="Big FM (92.7)"  group-title="FM Radio",Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/sgjOpqz.png" tvg-name="Jago FM (94.4)"  group-title="FM Radio",Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/SzLPkH4.png" tvg-name="Spice FM (96.4)"  group-title="FM Radio",Spice FM (96.4)
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/oCqZq70.png" tvg-name="Radio Mirchi (98.3)"  group-title="FM Radio",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/FtO5Esl.png" tvg-name="Radio Ekattor (98.4)"  group-title="FM Radio",Radio Ekattor (98.4)
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/meR71iP.png" tvg-name="Colours FM (101.6)"  group-title="FM Radio",Colours FM (101.6)
+http://45.64.135.88:8000/stream1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/1200px-Sputnik_logo.svg.png" tvg-name="Radio Sputnik"  group-title="FM Radio",Radio Sputnik
+https://riavoice.gcdn.co/voiceusa
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg" tvg-name="Radio Fox News"  group-title="FM Radio",Radio Fox News
+https://streaming-ent.shoutcast.com/foxnews
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://media.info/i/lv/capital-london/1493676754/193.png" tvg-name="Capital FM London"  group-title="FM Radio",Capital FM London
+https://media-ssl.musicradio.com/Capital?isLoggedIn=false&dax_version=release_2350&dax_player=GlobalPlayer&dax_platform=Web&aisDelivery=streaming&listenerid=1626365977569_0.459766359680285&aw_0_1st.playerid=GlobalPlayer&aw_0_1st.skey=1626365977&aw_0_req.userConsentV2=CPJV71CPJV71CAGABCENBiCgAAAAAENAAAIYAAAHSgCAEDAIQAYAA6QAAAAA.YAAAAAAAAAAA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_RadioFr.svg/1200px-Logo_RadioFr.svg.png" tvg-name="Radio FR"  group-title="FM Radio",Radio FR
+https://icecast.skyrock.net/s/natio_aac_96k
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://images.radio.orange.com/radios/large_englishwavesfr.png" tvg-name="Radio EnglishWaves"  group-title="FM Radio",Radio EnglishWaves
+https://streaming.englishwaves.fr/englishwavesclassique.mp3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Asian_Network.svg/1200px-BBC_Asian_Network.svg.png="Radio BBC Asian Network"  group-title="FM Radio",BBC Asian Network
+https://www.bbc.co.uk/sounds/play/live:bbc_asian_network
